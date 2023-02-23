@@ -132,8 +132,6 @@ int main(int argc, char *argv[]) {
   // The test.py automatically invokes program 
   // with appropriate inputs for each test case.
 
-  //*** You do the rest ***//
-
   // open the input file and loop through each of its lines. 
   // Use strtok to extract the hash string from each line.
   // Open the file -- input from optarg from -i
